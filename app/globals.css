@@ -136,28 +136,6 @@ body {
   margin-bottom: 24px;
 }
 
-.title {
-  font-size: 72px;
-  font-weight: 700;
-  color: #1f2937;
-  margin: 0;
-  letter-spacing: 2px;
-}
-
-.subtitle {
-  font-size: 24px;
-  margin-top: 16px;
-  font-weight: 500;
-  color: #4b5563;
-}
-
-.tagline {
-  margin-top: 12px;
-  font-size: 16px;
-  color: #6b7280;
-  letter-spacing: 0.5px;
-}
-
 .celebration-screen {
   height: 100vh;
   width: 100vw;
@@ -190,6 +168,7 @@ body {
   margin-top: 20px;
   font-size: 26px;
   animation: fadeSlideUp 1.6s ease forwards;
+  color: white;
 }
 
 .celebration-screen .tagline {
@@ -197,6 +176,7 @@ body {
   font-size: 18px;
   opacity: 0.85;
   animation: fadeSlideUp 2s ease forwards;
+  color: white;
 }
 
 .spotlight {
